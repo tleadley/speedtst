@@ -2,7 +2,7 @@
 
 This is a simple bash shell script to run speedtest-cli and feed the results into a round robin database to be consumed by `rrdtool`.
 
-<img src="https://github.com/tleadley/speedtst/raw/master/Screenshots/speedtest.png" width="100" height="100"/>
+<img src="https://github.com/tleadley/speedtst/blob/master/Screenshots/speedtest.PNG" width="100" height="100"/>
 
 `update-graph.sh` creates daily, weekly, monthly and annual graphs. You are on your own to embed these as you desire in a status report or web page.
 
